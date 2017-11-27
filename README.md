@@ -1,2 +1,2 @@
-# django-locator
-Django restaurant locator
+# django-locater
+Django restaurant locater
