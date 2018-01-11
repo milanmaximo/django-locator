@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'restaurant_locater.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'zemun',
-        'USER': 'moses',
-        'PASSWORD': 'srbija99',
-        'HOST': 'localhost',
-        'PORT': '5432'
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': ''
     }
 }
 
